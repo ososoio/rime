@@ -1,0 +1,89 @@
+# 爲保證顯示效果，推薦下載安裝以下幾款字體：
+# SF Mono & SF Pro  : https://developer.apple.com/fonts
+# ChiuKong Gothic CL: https://github.com/ChiuMing-Neko/ChiuKongGothic
+# I.MingCP          : https://github.com/ichitenfont/I.Ming
+
+patch:
+  style:
+    color_scheme: cinsik
+    color_scheme_dark: shamsik
+  preset_color_schemes:
+    cinsik:
+      name: Light Scheme
+      author: Bing Zheung
+      inline_preedit: true
+      color_space: display_p3
+      translucency: true
+      back_color: 0x00FFFFFF
+      text_color: 0x000000
+      candidate_text_color: 0x000000
+      comment_text_color: 0x555555
+      label_color: 0x555555
+      hilited_candidate_back_color: 0xF67834
+      hilited_candidate_text_color: 0xFFFFFF
+      hilited_comment_text_color: 0xFFFFFF
+      hilited_candidate_label_color: 0xFFFFFF
+      font_face: "SF Pro, Helvetica Neue, ChiuKong Gothic CL, PingFang HK, Plangothic P1, Plangothic P2, I.MingCP, HanaMinB"
+      comment_font_face: "SF Mono, SF Pro, Helvetica Neue, ChiuKong Gothic CL, PingFang HK, Plangothic P1, Plangothic P2, I.MingCP, HanaMinB"
+      label_font_face: "SF Mono"
+      font_point: 17
+      comment_font_point: 16
+      label_font_point: 16
+      line_spacing: 6
+      corner_radius: 8
+    shamsik:
+      name: Dark Scheme
+      author: Bing Zheung
+      inline_preedit: true
+      color_space: display_p3
+      translucency: true
+      back_color: 0x00000000
+      text_color: 0xFFFFFF
+      candidate_text_color: 0xFFFFFF
+      comment_text_color: 0xDDDDDD
+      label_color: 0xDDDDDD
+      hilited_candidate_back_color: 0xF67834
+      hilited_candidate_text_color: 0xFFFFFF
+      hilited_comment_text_color: 0xFFFFFF
+      hilited_candidate_label_color: 0xFFFFFF
+      font_face: "SF Pro, Helvetica Neue, ChiuKong Gothic CL, PingFang HK, Plangothic P1, Plangothic P2, I.MingCP, HanaMinB"
+      comment_font_face: "SF Mono, SF Pro, Helvetica Neue, ChiuKong Gothic CL, PingFang HK, Plangothic P1, Plangothic P2, I.MingCP, HanaMinB"
+      label_font_face: "SF Mono"
+      font_point: 17
+      comment_font_point: 16
+      label_font_point: 16
+      line_spacing: 6
+      corner_radius: 8
+  app_options:
+    com.apple.Spotlight:
+      ascii_mode: false
+    com.alfredapp.Alfred:
+      ascii_mode: false
+    com.runningwithcrayons.Alfred-2:
+      ascii_mode: false
+    com.blacktree.Quicksilver:
+      ascii_mode: false
+    com.apple.Terminal:
+      ascii_mode: false
+    com.googlecode.iterm2:
+      ascii_mode: false
+    org.vim.MacVim:
+      ascii_mode: false
+    com.apple.dt.Xcode:
+      ascii_mode: false
+    com.barebones.textwrangler:
+      ascii_mode: false
+    com.macromates.TextMate.preview:
+      ascii_mode: false
+    com.github.atom:
+      ascii_mode: false
+    com.microsoft.VSCode:
+      ascii_mode: false
+    com.sublimetext.2:
+      ascii_mode: false
+    org.gnu.Aquamacs:
+      ascii_mode: false
+    org.gnu.Emacs:
+      ascii_mode: false
+    co.zeit.hyper:
+      ascii_mode: false
