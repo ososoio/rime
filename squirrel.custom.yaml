@@ -25,7 +25,7 @@ patch:
       hilited_candidate_label_color: 0xFFFFFF
       font_face: "SF Pro, Helvetica Neue, ChiuKong Gothic CL, PingFang HK, Plangothic P1, Plangothic P2, I.MingCP, HanaMinB"
       comment_font_face: "SF Mono, SF Pro, Helvetica Neue, ChiuKong Gothic CL, PingFang HK, Plangothic P1, Plangothic P2, I.MingCP, HanaMinB"
-      label_font_face: "SF Mono"
+      label_font_face: "SF Mono, SF Pro, Helvetica Neue, ChiuKong Gothic CL, PingFang HK"
       font_point: 17
       comment_font_point: 16
       label_font_point: 16
@@ -48,7 +48,7 @@ patch:
       hilited_candidate_label_color: 0xFFFFFF
       font_face: "SF Pro, Helvetica Neue, ChiuKong Gothic CL, PingFang HK, Plangothic P1, Plangothic P2, I.MingCP, HanaMinB"
       comment_font_face: "SF Mono, SF Pro, Helvetica Neue, ChiuKong Gothic CL, PingFang HK, Plangothic P1, Plangothic P2, I.MingCP, HanaMinB"
-      label_font_face: "SF Mono"
+      label_font_face: "SF Mono, SF Pro, Helvetica Neue, ChiuKong Gothic CL, PingFang HK"
       font_point: 17
       comment_font_point: 16
       label_font_point: 16
